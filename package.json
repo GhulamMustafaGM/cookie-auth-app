@@ -1,0 +1,30 @@
+{
+  "name": "cookie-auth-app",
+  "version": "1.0.0",
+  "description": "cookie-auth-app",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GhulamMustafaGM/cookie-auth-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GhulamMustafaGM/cookie-auth-app/issues"
+  },
+  "homepage": "https://github.com/GhulamMustafaGM/cookie-auth-app#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "next": "^12.0.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
